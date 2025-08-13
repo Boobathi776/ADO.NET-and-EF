@@ -278,6 +278,8 @@ public class CRUD
             Console.WriteLine(ex.ToString());
         }
     }
+
+    // SP return multiple result set handled using DataTable and DataSet
     public void SpReturnMultipleResultSetUsingDataTable()
     {
         try
