@@ -1,0 +1,13 @@
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\bin\Debug\EF-DbFirstApproach.exe.config
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\bin\Debug\EF-DbFirstApproach.exe
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\bin\Debug\EF-DbFirstApproach.pdb
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\bin\Debug\EntityFramework.dll
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\bin\Debug\EntityFramework.xml
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\obj\Debug\EF-DbFirstApproach.csproj.AssemblyReference.cache
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\obj\Debug\EF-DbFirstApproach.csproj.CoreCompileInputs.cache
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\obj\Debug\EF-DbFir.AA08653D.Up2Date
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\obj\Debug\EF-DbFirstApproach.exe
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\obj\Debug\EF-DbFirstApproach.pdb
+D:\ADO.NET-Training-Git\EF-DbFirstApproach\EF-DbFirstApproach\obj\Debug\EF-DbFirstApproach.exe.config

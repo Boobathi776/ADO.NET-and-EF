@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADO.NET-Training-Git\\DB_connection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0008BBC-F358-45EC-A53C-D5AF6E8C1456}|DB_connection\\DB_connection.csproj|d:\\ado.net-training-git\\db_connection\\db_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0008BBC-F358-45EC-A53C-D5AF6E8C1456}|DB_connection\\DB_connection.csproj|solutionrelative:db_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\DB_connection\\DB_connection\\Program.cs",
+              "RelativeDocumentMoniker": "DB_connection\\Program.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\DB_connection\\DB_connection\\Program.cs",
+              "RelativeToolTip": "DB_connection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:52:54.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
