@@ -1,7 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using EF_DbFirstApproach.Model;
+﻿using EF_DbFirstApproach.Constants;
+using EF_DbFirstApproach.CRUD;
+using EF_DbFirstApproach.Utilities;
+using System;
 
 namespace EF_DbFirstApproach
 {
@@ -9,26 +9,61 @@ namespace EF_DbFirstApproach
     {
         static void Main(string[] args)
         {
-            using (StudentDataBaseEntities1 DBEntities = new StudentDataBaseEntities1())
+
+
+            Console.Clear();
+            Console.WriteLine("*****************************************************************************************************");
+            Console.WriteLine("*************************************          CRUD using EF        *********************************");
+            Console.WriteLine("*****************************************************************************************************");
+            Crud crud = new Crud();
+
+            int option = ShowOptions();
+
+            do
             {
-                List<Department> listDepartments = DBEntities.Departments.ToList();
-                Console.WriteLine();
-                foreach (Department dept in listDepartments)
+                switch (option)
                 {
-                    Console.WriteLine("======================================================================================================");
-                    Console.WriteLine("Department = {0}, Department Name = {1}", dept.DepartmentID, dept.DepartmentName);
-                    Console.WriteLine();
-                    foreach (Student stud in dept.Students)
-                    {
-                        Console.WriteLine("Student ID = {0},Name = {1},Department ID = {2}\n", stud.StudentID, stud.StudentName, stud.DepartmentID);
-                    }
-                    Console.WriteLine("======================================================================================================");
+                    case 1:
+                        Console.WriteLine("\nINSERT A NEW STUDENT\n"); //not completed
+                        option = ShowOptions();
+                        break;
+                    case 2:
+                        Console.WriteLine("\nUPDATE A STUDENT\n");
+                        crud.ShowALLStudents();
+                        crud.UpdateStudent(InputValidation.GetStudentID());
+                        option = ShowOptions();
+                        break;
+                    case 3:
+                        Console.WriteLine("\nDELETE A STUDENT\n");
+                        crud.ShowALLStudents();
+                        crud.DeleteStudent(InputValidation.GetStudentID());
+                        option = ShowOptions();
+                        break;
+                    case 4:
+                        Console.WriteLine("\nVIEW ALL STUDENT\n");
+                        crud.ShowALLStudents();
+                        option = ShowOptions();
+                        break;
+                    case 5:
+                        Console.WriteLine("Exiting.......");
+                        break;
 
+                    default:
+                        Console.WriteLine("Invalid choice......");
+                        option = ShowOptions();
+                        break;
                 }
-                Console.ReadKey();
-            }
-        }
-    }
+            } while (option != Constant.NoOfOptions);
 
+        }
+
+        public static int ShowOptions()
+        {
+            Console.Write("1.Insert new Student\n2.Update Student\n3.Delete a Student\n4.View all Student\n5.EXIT\n");
+            int option = InputValidation.GetValueForSwtich(Constant.NoOfOptions);
+            return option;
+        }
+
+    }
 }
 

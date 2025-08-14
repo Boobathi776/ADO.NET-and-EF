@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|solutionrelative:ef-dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|d:\\ado.net-training-git\\ef-dbfirstapproach\\ef-dbfirstapproach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|solutionrelative:ef-dbfirstapproach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|d:\\ado.net-training-git\\ef-dbfirstapproach\\ef-dbfirstapproach\\crud\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|solutionrelative:ef-dbfirstapproach\\crud\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|d:\\ado.net-training-git\\ef-dbfirstapproach\\ef-dbfirstapproach\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|solutionrelative:ef-dbfirstapproach\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|d:\\ado.net-training-git\\ef-dbfirstapproach\\ef-dbfirstapproach\\utilities\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|solutionrelative:ef-dbfirstapproach\\utilities\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|d:\\ado.net-training-git\\ef-dbfirstapproach\\ef-dbfirstapproach\\model\\studentdatamodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A44A07-FE95-4979-A8C7-7F167F17163C}|EF-DbFirstApproach\\EF-DbFirstApproach.csproj|solutionrelative:ef-dbfirstapproach\\model\\studentdatamodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Utilities\\InputValidation.cs",
+              "RelativeDocumentMoniker": "EF-DbFirstApproach\\Utilities\\InputValidation.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Utilities\\InputValidation.cs",
+              "RelativeToolTip": "EF-DbFirstApproach\\Utilities\\InputValidation.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAMwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:20:41.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDataModel.Context.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Model\\StudentDataModel.Context.cs",
+              "RelativeDocumentMoniker": "EF-DbFirstApproach\\Model\\StudentDataModel.Context.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Model\\StudentDataModel.Context.cs",
+              "RelativeToolTip": "EF-DbFirstApproach\\Model\\StudentDataModel.Context.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:13:13.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\App.config",
-              "RelativeDocumentMoniker": "EF-DbFirstApproach\\App.config",
-              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\App.config",
-              "RelativeToolTip": "EF-DbFirstApproach\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-13T12:36:06.396Z",
+              "Title": "Crud.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\CRUD\\Crud.cs",
+              "RelativeDocumentMoniker": "EF-DbFirstApproach\\CRUD\\Crud.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\CRUD\\Crud.cs",
+              "RelativeToolTip": "EF-DbFirstApproach\\CRUD\\Crud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:12:38.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Constants\\Constant.cs",
+              "RelativeDocumentMoniker": "EF-DbFirstApproach\\Constants\\Constant.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Constants\\Constant.cs",
+              "RelativeToolTip": "EF-DbFirstApproach\\Constants\\Constant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:07:04.119Z",
               "EditorCaption": ""
             },
             {
@@ -39,9 +90,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Program.cs",
               "RelativeDocumentMoniker": "EF-DbFirstApproach\\Program.cs",
-              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Program.cs",
-              "RelativeToolTip": "EF-DbFirstApproach\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-DbFirstApproach\\EF-DbFirstApproach\\Program.cs*",
+              "RelativeToolTip": "EF-DbFirstApproach\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T12:33:21.899Z",
               "EditorCaption": ""

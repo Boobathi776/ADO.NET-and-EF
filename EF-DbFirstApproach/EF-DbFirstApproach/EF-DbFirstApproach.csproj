@@ -55,6 +55,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constants\Constant.cs" />
+    <Compile Include="CRUD\Crud.cs" />
     <Compile Include="Model\Course.cs">
       <DependentUpon>StudentDataModel.tt</DependentUpon>
     </Compile>
@@ -84,6 +86,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>StudentDataModel.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Utilities\InputValidation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -107,6 +110,7 @@
       <DependentUpon>StudentDataModel.edmx</DependentUpon>
       <LastGenOutput>StudentDataModel.cs</LastGenOutput>
     </Content>
+    <Content Include="SQL server queries\EF-DB Query.sql" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
