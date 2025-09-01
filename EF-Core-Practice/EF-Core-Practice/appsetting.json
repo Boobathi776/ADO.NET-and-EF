@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "EmployeeDB": "server=BSD-BOOBATHIA01\\SQLEXPRESS;server=EmployeeDBNEW;Integrated Security=true;TrustServerCertificate=true;"
+  }
+}

@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "StudentDB": "server=BSD-BOOBATHIA01\\SQLEXPRESS;database=StudentDb;Integrated Security=true;TrustServerCertificate=true;"
+  }
+}

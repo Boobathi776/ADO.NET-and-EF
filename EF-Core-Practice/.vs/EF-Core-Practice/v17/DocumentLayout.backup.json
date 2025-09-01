@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|d:\\ado.net-training-git\\ef-core-practice\\dataaccess\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|d:\\ado.net-training-git\\ef-core-practice\\dataaccess\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|d:\\ado.net-training-git\\ef-core-practice\\ef-core-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|solutionrelative:ef-core-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|d:\\ado.net-training-git\\ef-core-practice\\ef-core-practice\\sqlqueryfiles\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|solutionrelative:ef-core-practice\\sqlqueryfiles\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|d:\\ado.net-training-git\\ef-core-practice\\ef-core-practice\\ef-core-practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|solutionrelative:ef-core-practice\\ef-core-practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|d:\\ado.net-training-git\\ef-core-practice\\dataaccess\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|d:\\ado.net-training-git\\ef-core-practice\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|d:\\ado.net-training-git\\ef-core-practice\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{640A0C81-D683-48A2-8B9C-9A786F8E9301}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|d:\\ado.net-training-git\\ef-core-practice\\ef-core-practice\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|solutionrelative:ef-core-practice\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|d:\\ado.net-training-git\\ef-core-practice\\ef-core-practice\\sqlqueryfiles\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|solutionrelative:ef-core-practice\\sqlqueryfiles\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|d:\\ado.net-training-git\\ef-core-practice\\ef-core-practice\\sqlqueryfiles\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{DAC286DC-60A5-4F45-9CE8-946022B8E310}|EF-Core-Practice\\EF-Core-Practice.csproj|solutionrelative:ef-core-practice\\sqlqueryfiles\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\EF-Core-Practice\\Program.cs",
+              "RelativeDocumentMoniker": "EF-Core-Practice\\Program.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\EF-Core-Practice\\Program.cs",
+              "RelativeToolTip": "EF-Core-Practice\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:25:56.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Student.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\Models\\Student.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T15:41:00.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\StudentDbContext.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Models\\StudentDbContext.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwDwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:21:56.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\EF-Core-Practice\\SqlQueryFiles\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "EF-Core-Practice\\SqlQueryFiles\\SQLQuery1.sql",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\EF-Core-Practice\\SqlQueryFiles\\SQLQuery1.sql",
+              "RelativeToolTip": "EF-Core-Practice\\SqlQueryFiles\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-22T12:04:21.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EF-Core-Practice.csproj",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\EF-Core-Practice\\EF-Core-Practice.csproj",
+              "RelativeDocumentMoniker": "EF-Core-Practice\\EF-Core-Practice.csproj",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\EF-Core-Practice\\EF-Core-Practice.csproj",
+              "RelativeToolTip": "EF-Core-Practice\\EF-Core-Practice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T13:48:32.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\appsetting.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsetting.json",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\appsetting.json",
+              "RelativeToolTip": "DataAccess\\appsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T12:28:54.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T12:33:35.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:17:25.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\EF-Core-Practice\\appsetting.json",
+              "RelativeDocumentMoniker": "EF-Core-Practice\\appsetting.json",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-Core-Practice\\EF-Core-Practice\\appsetting.json",
+              "RelativeToolTip": "EF-Core-Practice\\appsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T13:47:34.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
