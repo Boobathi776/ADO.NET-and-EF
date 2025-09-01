@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\services\\northwindservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\services\\northwindservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\inputvalidation\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\inputvalidation\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\dto\\customerorderhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\dto\\customerorderhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|d:\\ado.net-training-git\\ef_core_assessment_1\\ef_core_assessment_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{795C5605-238A-4810-B53F-9D09A9CF64FA}|EF_Core_Assessment_1\\EF_Core_Assessment_1.csproj|solutionrelative:ef_core_assessment_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Program.cs",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\Program.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Program.cs*",
+              "RelativeToolTip": "EF_Core_Assessment_1\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAArwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:25:40.699Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthWindService.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Services\\NorthWindService.cs",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\Services\\NorthWindService.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Services\\NorthWindService.cs",
+              "RelativeToolTip": "EF_Core_Assessment_1\\Services\\NorthWindService.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAswOYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:06:51.441Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthWindContext.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Models\\NorthWindContext.cs",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\Models\\NorthWindContext.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Models\\NorthWindContext.cs",
+              "RelativeToolTip": "EF_Core_Assessment_1\\Models\\NorthWindContext.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwGAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:30:12.726Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\InputValidation\\InputValidation.cs",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\InputValidation\\InputValidation.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\InputValidation\\InputValidation.cs",
+              "RelativeToolTip": "EF_Core_Assessment_1\\InputValidation\\InputValidation.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:42:15.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerOrderHistoryDto.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\DTO\\CustomerOrderHistoryDto.cs",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\DTO\\CustomerOrderHistoryDto.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\DTO\\CustomerOrderHistoryDto.cs",
+              "RelativeToolTip": "EF_Core_Assessment_1\\DTO\\CustomerOrderHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:52:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\Models\\Order.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Models\\Order.cs",
+              "RelativeToolTip": "EF_Core_Assessment_1\\Models\\Order.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:11:23.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Constants\\Constant.cs",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\Constants\\Constant.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Constants\\Constant.cs",
+              "RelativeToolTip": "EF_Core_Assessment_1\\Constants\\Constant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:43:24.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\Models\\Customer.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\Models\\Customer.cs",
+              "RelativeToolTip": "EF_Core_Assessment_1\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:11:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\appsettings.json",
+              "RelativeDocumentMoniker": "EF_Core_Assessment_1\\appsettings.json",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF_Core_Assessment_1\\EF_Core_Assessment_1\\appsettings.json",
+              "RelativeToolTip": "EF_Core_Assessment_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T08:30:39.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
