@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\service\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\service\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\service\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\service\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|d:\\ado.net-training-git\\ef-codefirstapproach\\ef-codefirstapproach\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\dataaccess\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\dataaccess\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\dataaccess\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\dataaccess\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\dataaccess\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\dataaccess\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\model\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\model\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\ef-codefirstapproach\\model\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DF7C0-3F29-49BB-BE8E-F07FF9F7CB94}|EF-CodeFirstApproach\\EF-CodeFirstApproach.csproj|solutionrelative:ef-codefirstapproach\\model\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\DTO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\DTO\\EmployeeDTO.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\DTO\\EmployeeDTO.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\DTO\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:36:52.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\DataAccess\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\DataAccess\\DepartmentRepository.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\DataAccess\\DepartmentRepository.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\DataAccess\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:29:45.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Service\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Service\\EmployeeServices.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Service\\EmployeeServices.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Service\\EmployeeServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:32:25.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Service\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Service\\DepartmentService.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Service\\DepartmentService.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Service\\DepartmentService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:31:37.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Service\\ProjectService.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Service\\ProjectService.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Service\\ProjectService.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Service\\ProjectService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:35:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Program.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Program.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:48:49.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\DataAccess\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\DataAccess\\EmployeeRepository.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\DataAccess\\EmployeeRepository.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\DataAccess\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:22:39.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Constants\\Constant.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Constants\\Constant.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Constants\\Constant.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Constants\\Constant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:16:20.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\DataAccess\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\DataAccess\\ProjectRepository.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\DataAccess\\ProjectRepository.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\DataAccess\\ProjectRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:36:11.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\App.config",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\App.config",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\App.config",
+              "RelativeToolTip": "EF-CodeFirstApproach\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-19T10:25:51.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:25:51.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Model\\EmployeeContext.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\EmployeeContext.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Model\\EmployeeContext.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:18:59.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Model\\EmployeeProject.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\EmployeeProject.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Model\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:17:36.749Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Model\\Employee.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\Employee.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Model\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:12:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Model\\Department.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\Department.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:14:14.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\Project.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Model\\Project.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Model\\Project.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Model\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:16:25.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Service\\InputValidation.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirstApproach\\Service\\InputValidation.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EF-CodeFirstApproach\\EF-CodeFirstApproach\\Service\\InputValidation.cs",
+              "RelativeToolTip": "EF-CodeFirstApproach\\Service\\InputValidation.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAwwKwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:34:30.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
