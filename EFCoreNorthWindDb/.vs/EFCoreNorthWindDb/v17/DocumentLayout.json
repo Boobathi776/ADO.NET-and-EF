@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\service\\northwindservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\service\\northwindservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\inputvalidation\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\inputvalidation\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\repository\\northwindrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\repository\\northwindrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\constants\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\models\\northwndcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\models\\northwndcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\efcorenorthwinddb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\efcorenorthwinddb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|d:\\ado.net-training-git\\efcorenorthwinddb\\efcorenorthwinddb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9406BA4-2E23-49A4-90F5-BBCF7868E696}|EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj|solutionrelative:efcorenorthwinddb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\Program.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Program.cs",
+              "RelativeToolTip": "EFCoreNorthWindDb\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:41:53.596Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthWindService.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Service\\NorthWindService.cs",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\Service\\NorthWindService.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Service\\NorthWindService.cs",
+              "RelativeToolTip": "EFCoreNorthWindDb\\Service\\NorthWindService.cs",
+              "ViewState": "AgIAALoDAAAAAAAAAAAIwMEDAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:57:02.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\InputValidation\\InputValidation.cs",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\InputValidation\\InputValidation.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\InputValidation\\InputValidation.cs",
+              "RelativeToolTip": "EFCoreNorthWindDb\\InputValidation\\InputValidation.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAA2wO8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:44:30.677Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthWindRepo.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Repository\\NorthWindRepo.cs",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\Repository\\NorthWindRepo.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Repository\\NorthWindRepo.cs",
+              "RelativeToolTip": "EFCoreNorthWindDb\\Repository\\NorthWindRepo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:22:59.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\Models\\Employee.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCoreNorthWindDb\\Models\\Employee.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:18:02.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Constants\\Constant.cs",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\Constants\\Constant.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Constants\\Constant.cs",
+              "RelativeToolTip": "EFCoreNorthWindDb\\Constants\\Constant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:03:44.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\appsettings.json",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\appsettings.json",
+              "RelativeToolTip": "EFCoreNorthWindDb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T11:55:58.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthwndContext.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Models\\NorthwndContext.cs",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\Models\\NorthwndContext.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\Models\\NorthwndContext.cs",
+              "RelativeToolTip": "EFCoreNorthWindDb\\Models\\NorthwndContext.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:54:03.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFCoreNorthWindDb.csproj",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj",
+              "RelativeDocumentMoniker": "EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\EFCoreNorthWindDb\\EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj",
+              "RelativeToolTip": "EFCoreNorthWindDb\\EFCoreNorthWindDb.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T11:57:02.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
