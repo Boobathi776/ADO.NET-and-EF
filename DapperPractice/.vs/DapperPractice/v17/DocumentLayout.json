@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADO.NET-Training-Git\\DapperPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1199A9-CCC7-4992-A967-3C054B871B9D}|DapperPractice\\DapperPractice.csproj|d:\\ado.net-training-git\\dapperpractice\\dapperpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1199A9-CCC7-4992-A967-3C054B871B9D}|DapperPractice\\DapperPractice.csproj|solutionrelative:dapperpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1199A9-CCC7-4992-A967-3C054B871B9D}|DapperPractice\\DapperPractice.csproj|D:\\ADO.NET-Training-Git\\DapperPractice\\dapperpractice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF1199A9-CCC7-4992-A967-3C054B871B9D}|DapperPractice\\DapperPractice.csproj|solutionrelative:dapperpractice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\DapperPractice\\DapperPractice\\App.config",
+              "RelativeDocumentMoniker": "DapperPractice\\App.config",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\DapperPractice\\DapperPractice\\App.config",
+              "RelativeToolTip": "DapperPractice\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-20T03:35:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\DapperPractice\\DapperPractice\\Program.cs",
+              "RelativeDocumentMoniker": "DapperPractice\\Program.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\DapperPractice\\DapperPractice\\Program.cs*",
+              "RelativeToolTip": "DapperPractice\\Program.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwEYAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:39:31.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
