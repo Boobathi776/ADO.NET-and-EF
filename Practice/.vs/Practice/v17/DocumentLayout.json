@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADO.NET-Training-Git\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|d:\\ado.net-training-git\\practice\\practice\\migrations\\202508190944514_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|solutionrelative:practice\\migrations\\202508190944514_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|d:\\ado.net-training-git\\practice\\practice\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|solutionrelative:practice\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|d:\\ado.net-training-git\\practice\\practice\\model\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|solutionrelative:practice\\model\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|d:\\ado.net-training-git\\practice\\practice\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|solutionrelative:practice\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|d:\\ado.net-training-git\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|d:\\ado.net-training-git\\practice\\practice\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|solutionrelative:practice\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|d:\\ado.net-training-git\\practice\\practice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF80C712-0D01-4C63-8CF5-C96227309989}|Practice\\Practice.csproj|solutionrelative:practice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202508190944514_initial.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Migrations\\202508190944514_initial.cs",
+              "RelativeDocumentMoniker": "Practice\\Migrations\\202508190944514_initial.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Migrations\\202508190944514_initial.cs",
+              "RelativeToolTip": "Practice\\Migrations\\202508190944514_initial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:44:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Practice\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Practice\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:44:30.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\App.config",
+              "RelativeDocumentMoniker": "Practice\\App.config",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\App.config",
+              "RelativeToolTip": "Practice\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-19T08:56:45.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Model\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\EmployeeContext.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Model\\EmployeeContext.cs",
+              "RelativeToolTip": "Practice\\Model\\EmployeeContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:11:04.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Department.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Model\\Department.cs",
+              "RelativeToolTip": "Practice\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:10:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Employee.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Model\\Employee.cs",
+              "RelativeToolTip": "Practice\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:09:37.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "D:\\ADO.NET-Training-Git\\Practice\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:07:40.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

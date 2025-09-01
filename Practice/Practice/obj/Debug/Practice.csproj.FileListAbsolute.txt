@@ -1,0 +1,15 @@
+D:\ADO.NET-Training-Git\Practice\Practice\bin\Debug\Practice.exe.config
+D:\ADO.NET-Training-Git\Practice\Practice\bin\Debug\Practice.exe
+D:\ADO.NET-Training-Git\Practice\Practice\bin\Debug\Practice.pdb
+D:\ADO.NET-Training-Git\Practice\Practice\bin\Debug\EntityFramework.dll
+D:\ADO.NET-Training-Git\Practice\Practice\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.NET-Training-Git\Practice\Practice\bin\Debug\EntityFramework.xml
+D:\ADO.NET-Training-Git\Practice\Practice\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.NET-Training-Git\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\ADO.NET-Training-Git\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\ADO.NET-Training-Git\Practice\Practice\obj\Debug\Practice.csproj.Up2Date
+D:\ADO.NET-Training-Git\Practice\Practice\obj\Debug\Practice.exe
+D:\ADO.NET-Training-Git\Practice\Practice\obj\Debug\Practice.pdb
+D:\ADO.NET-Training-Git\Practice\Practice\obj\Debug\Practice.exe.config
+D:\ADO.NET-Training-Git\Practice\Practice\obj\Debug\Practice.Migrations.initial.resources
+D:\ADO.NET-Training-Git\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
